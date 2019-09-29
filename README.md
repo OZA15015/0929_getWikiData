@@ -21,6 +21,3 @@ for i in range(2): #数字で深さ指定
 
 ディレクトリ: title
 2のデータを格納
-# 0929_getWikiData
-# 0929_getWikiData
-# 0929_getWikiData
